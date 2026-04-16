@@ -34,6 +34,8 @@ Table of Contents
 - [Solana Beach](https://solanabeach.io/)
 - [Validators.app](https://www.validators.app/)
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## Resources
 
 ### Official Resources
